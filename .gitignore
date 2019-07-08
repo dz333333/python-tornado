@@ -1,0 +1,10 @@
+__pycache__/
+.vscode/
+.tox/
+logs/*.log
+.idea
+apidoc/doc
+conf/dev*
+*_dev.*
+docker-compose-dev.yml
+apidoc/conf/* 
