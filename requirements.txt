@@ -1,0 +1,8 @@
+tornado==5.1.1
+PyJWT==1.6.4
+redis==3.2.1
+requests>=2.19.1
+TorMySQL==0.4.1
+WTForms==2.2.1
+WTForms-JSON==0.3.3
+wtforms-tornado==0.0.2
