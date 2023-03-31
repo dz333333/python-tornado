@@ -1,6 +1,6 @@
 tornado==5.1.1
 PyJWT==1.6.4
-redis==3.2.1
+redis==4.4.4
 requests>=2.19.1
 TorMySQL==0.4.1
 WTForms==2.2.1
